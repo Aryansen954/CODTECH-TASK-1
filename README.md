@@ -35,5 +35,8 @@ MENTOR:NEHA
   - Troubleshooting and debugging
 
 This project aims to provide hands-on experience with real-time data logging systems, enhancing skills in embedded systems and microcontroller programming.
+
+
+
 ![Screenshot (14)](https://github.com/user-attachments/assets/ab211d1b-9f41-46c7-b6ce-e90a87150142)
 
